@@ -67,4 +67,3 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshrajsinh-08/harshrajsinh-08/output/github-snake.svg" />
 <img src="https://raw.githubusercontent.com/harshrajsinh-08/harshrajsinh-08/output/github-snake.svg" alt="Snake animation" />
 </picture>
-###
