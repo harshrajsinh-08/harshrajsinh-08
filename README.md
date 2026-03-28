@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey What's up?</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I’m currently working on building innovative web applications, enhancing database integrations, and solving real-world problems with code.<br><br>📚 I’m looking to collaborate on exciting open-source projects, full-stack web development, and AI/ML-driven applications while seeking help with advanced algorithms, cloud infrastructure optimization, and DevOps tools.<br><br>🎯 Currently, I’m learning in-depth system design, scalable architecture, and cutting-edge frameworks like React, Next.js, and TailwindCSS.<br><br>🔭 Feel free to ask me about web development, database management, project deployment, or even how to split a bill fairly with code!<br><br>🎲 Fun fact: I’ve accidentally closed my IDE more times than I’ve closed my browser tabs. 😅🔄</p>
+<p align="left">I’m currently working on building innovative web applications, enhancing database integrations, and solving real-world problems with code.<br><br>I’m looking to collaborate on exciting open-source projects, full-stack web development, and AI/ML-driven applications while seeking help with advanced algorithms, cloud infrastructure optimization, and DevOps tools.<br><br>Currently, I’m learning in-depth system design, scalable architecture, and cutting-edge frameworks like React, Next.js, and TailwindCSS.<br><br>Feel free to ask me about web development, database management, project deployment, or even how to split a bill fairly with code!<br><br>Fun fact: I’ve accidentally closed my IDE more times than I’ve closed my browser tabs.</p>
 
 ###
 
